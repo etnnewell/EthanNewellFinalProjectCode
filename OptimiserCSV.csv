@@ -1,0 +1,7 @@
+Model,Optimiser,Acc,Aug_acc
+A-GCNN,RMS,58.5,41.1
+A-GCNN,Adam,60.9,42.8
+B-GCNN,RMS,69.4,44.6
+B-GCNN,Adam,68.8,46.3
+C-GCNN,RMS,75.0,46.1
+C-GCNN,Adam,76.1,47.2

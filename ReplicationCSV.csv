@@ -1,0 +1,11 @@
+﻿Model,Original,Acc,AUC
+P4-48,Yes,89,94.5
+P4-48,No,88,92.9
+P4M-24,Yes,89.3,95.5
+P4M-24,No,88.5,95.3
+P4M-64,Yes,89.8,96.3
+P4M-64,No,89,95.3
+DenseNet40,Yes,93,0
+DenseNet40,No,91.3,0
+DenseNet-BC100,Yes,94.1,0
+DenseNet-BC100,No,93.1,0
